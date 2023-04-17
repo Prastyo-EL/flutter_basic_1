@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Flutter screnshoot](https://github.com/Prastyo-EL/flutter_basic_1/tree/main/assets/image/hasil.png)
+![Flutter screnshoot](https://github.com/Prastyo-EL/flutter_basic_1/blob/main/assets/image/hasil.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
